@@ -1,34 +1,26 @@
 # Rosewood for Zed
 
-Rosewood is a warm dark theme family for [Zed](https://zed.dev) built around cocoa-brown surfaces, rose-tinted highlights, and soft pastel syntax. It is designed to feel atmospheric without sacrificing readability, so long coding sessions stay calm instead of flat, gray, or harsh.
+Rosewood is a warm dark theme family for [Zed](https://zed.dev) built around cocoa-brown surfaces, rose-tinted highlights, restrained olive undertones, and soft pastel syntax. It is designed to feel atmospheric without sacrificing readability, so long coding sessions stay calm instead of flat, gray, or harsh.
 
 ![Rosewood Dusk with editor and assistant panel](./assets/rosewood-theme-dusk-1.png)
 
-_Rosewood Dusk with editor and assistant_
-
-![Rosewood Dusk with editor and terminal](./assets/rosewood-theme-dusk-2.png)
-
-_Rosewood Dusk with editor and terminal_
+_Rosewood Dusk_
 
 ![Rosewood Dusk Transparent with editor and assistant panel](./assets/rosewood-theme-dusk-transparent-1.png)
 
-_Rosewood Dusk Transparent with editor and assistant_
-
-![Rosewood Dusk Transparent blended with wallpaper](./assets/rosewood-theme-dusk-transparent-2.png)
-
-_Rosewood Dusk Transparent blended with wallpaper_
+_Rosewood Dusk Transparent_
 
 ## Features
 
 Rosewood is made for people who want a dark theme with character.
 
 - **Warm surfaces instead of lifeless charcoal**
-  - Rosewood uses layered browns, muted rose borders, and soft ivory text to keep the UI grounded and easy on the eyes.
+  - Rosewood uses layered browns, muted rose borders, olive-tinted neutrals, and soft ivory text to keep the UI grounded and easy on the eyes.
   - The standard `Rosewood Dusk` variant adds a blurred, polished look that feels rich without becoming muddy.
 
 - **Readable pastel syntax**
   - Keywords and tags lean into soft rose pinks.
-  - Strings use a muted sage green.
+  - Strings use a muted sage-olive green.
   - Types and constructors land in cool powder blues.
   - Functions and operators carry a lavender tint.
   - Comments stay dusty violet and italic, visible without stealing focus.
@@ -39,7 +31,7 @@ Rosewood is made for people who want a dark theme with character.
 
 - **UI, terminal, and diagnostics all match**
   - The terminal ANSI palette follows the editor colors instead of feeling bolted on.
-  - Git states, warnings, errors, hints, and collaboration cursors are tuned to fit the same warm visual language.
+  - Git states, success colors, warnings, errors, hints, and collaboration cursors are tuned to fit the same rosewood-and-olive visual language.
 
 ## Included Themes
 
@@ -76,13 +68,15 @@ You can also switch themes from **Settings** → **Theme**.
 
 ## Why Rosewood
 
-Rosewood is for people who like dark themes, but are tired of cold monochrome palettes. It aims for a softer, more cinematic look: warm editor surfaces, pastel syntax with clear separation, and a transparent variant that looks intentional instead of gimmicky.
+Rosewood is for people who like dark themes, but are tired of cold monochrome palettes. It aims for a softer, more cinematic look: warm editor surfaces, subtle olive undertones, pastel syntax with clear separation, and a transparent variant that looks intentional instead of gimmicky.
 
 If you want Zed to feel a little more tactile, a little less sterile, and a lot more personal, Rosewood is the point.
 
 ## Feedback
 
-Issues, ideas, and pull requests are welcome.
+The theme is still evolving, and colors are subject to change based on iteration and community feedback.
+
+Issues, ideas, collaborations, and pull requests are welcome.
 
 ## License
 
